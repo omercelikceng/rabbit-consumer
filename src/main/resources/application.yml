@@ -1,0 +1,11 @@
+#spring:
+#  cloud:
+#    stream:
+#      function:
+#        definition: "listenExampleData"
+#      bindings:
+#        listenExampleData-in-0:
+#          destination: topic36
+
+
+
